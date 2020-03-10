@@ -1,0 +1,43 @@
+h1{
+    font-weight: 400;
+    color: #555555;
+    padding: 1% 1% 0% 10%;
+}
+
+.container{
+    width: 600px;
+    margin: 5% 20% 0% 10%;
+    border: 2px solid;
+    padding: 0% 1% 1% 2%;
+}
+
+.container h2{
+    font-weight: 400;
+    font-size: 22pt;
+}
+
+.container .blog{
+    border: 2px solid;
+    width: 54%;
+    display: inline-block;
+    text-align: center;
+    padding: 1% 1% 25% 1%;
+}
+
+.container .other{
+    border: 2px solid;
+    width: 40%;
+    display: inline-block;
+    text-align: center;
+    padding: 1% 1% 25% 1%;
+
+}
+
+.container .author{
+    border: 2px solid;
+    width: 100%;
+    text-align: center;
+    padding: 2% 0% 0% 0%;
+    margin-top: 2%;
+
+}
